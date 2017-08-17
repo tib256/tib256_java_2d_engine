@@ -1,5 +1,5 @@
 # tib256_java_2d_engine
-A simple java 2d engine , neatbeans project for student.
+A simple java 2d game engine , neatbeans project for student.
 
 
  * Tibor Fiák  tib256_engine_test
