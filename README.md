@@ -1,7 +1,7 @@
 # tib256_java_2d_engine
 A simple java 2d engine , neatbeans project for student.
 
-/**
+
  * Fiák Tibor tib256_engine_test
  * This is a simple 2D game engine
  * You can make levels with AbstractGameState , AbstractGameState included InterfaceGameState and InterfaceWorlds
@@ -11,4 +11,4 @@ A simple java 2d engine , neatbeans project for student.
  * I made a few game, you can learn tihs engine.
  * I hope that this engine will like for you :).
  * My vision that you can learn the objectum oriented programing easily and playfully.
- */
+ 
