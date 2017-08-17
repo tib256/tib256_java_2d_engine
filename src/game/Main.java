@@ -73,7 +73,7 @@ public class Main extends JComponent implements ActionListener, InterfaceWorlds{
 //          gameLevels.add(new PictureRotation(2,window));
             gameLevels.add(new Snake_game(3,window));
 //          gameLevels.add(new Animation_test(4,window));
-//          gameLevels.add(new PathFinderExample(5,window));
+//           gameLevels.add(new PathFinderExample(5,window));
             gameLevels.add(new Menu(0,window));
         
         //Start level
