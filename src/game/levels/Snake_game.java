@@ -5,7 +5,7 @@
  */
 package game.levels;
 
-import game.levels.gameObjects.Snake;
+import game.levels.gameObjects.Snake.Snake;
 import java.awt.Dimension;
 import java.awt.event.KeyEvent;
 import java.awt.event.MouseEvent;
